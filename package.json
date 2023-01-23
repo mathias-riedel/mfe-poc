@@ -2,7 +2,9 @@
   "name": "mfe-poc",
   "version": "1.0.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "start": "pnpm --stream -r start"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
